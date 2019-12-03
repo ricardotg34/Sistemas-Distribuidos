@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://148.204.56.120:8080/RolesWS/WSRoles?WSDL" uri="xml-resources/web-service-references/WSRoles/wsdl/148.204.56.120_8080/RolesWS/WSRoles.wsdl"/>
+    <system systemId="http://148.204.56.120:8080/RolesWS/WSRoles?xsd=1" uri="xml-resources/web-service-references/WSRoles/wsdl/148.204.56.120_8080/RolesWS/WSRoles.xsd_1.xsd"/>
+</catalog>
